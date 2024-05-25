@@ -4,7 +4,7 @@
 
 ### Primer semestre
 
-    * Cálculo Diferencial e Integral
+    * [Cálculo Diferencial e Integral](https://youtu.be/TbcEqkabAWU)
     * Álgebra
     * Geometría analítica
     * Introducción a la ingeniería en computación
